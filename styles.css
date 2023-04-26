@@ -28,3 +28,15 @@
     margin-left: 20px;
     padding-top: 5px;
 }
+.talk{
+    background-color: #2BC568;
+    height: 100%;
+    width: 296px;
+    float: left;
+}
+.talk1{
+    margin-top: 12px;
+    margin-left: 214px;
+    background-color: #2BC568;
+    border-radius: 12px;
+}
