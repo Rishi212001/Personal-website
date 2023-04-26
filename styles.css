@@ -1,3 +1,7 @@
+.header{
+    width: 100%;
+    height: 46px;
+}
 .logo{
     width: 9%;
     height: 39px;
@@ -7,4 +11,20 @@
     color: white;
     padding-left: 17px;
     padding-top: 7px;
+    float: left;
+}
+.pulldown{
+    width: 778px;
+    background-color: #1c1311;
+    float: left;
+    height: 32px;
+    padding-left: 240px;
+    padding-top: 14px;
+}
+.para{
+    color: white;
+    text-decoration: none;
+    padding-left: 5px;
+    margin-left: 20px;
+    padding-top: 5px;
 }
